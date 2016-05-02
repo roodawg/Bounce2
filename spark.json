@@ -1,12 +1,13 @@
 {
   "name": "Bounce2",
+  "author": "Thomas O Fredericks <tof@t-o-f.info> with contributions fromEric Lowry, Jim Schimpf and Tom Harkaway",
   "keywords": "bounce, signal, input, ouput",
   "description": "Debouncing library for Arduino or Wiring",
   "repository": {
     "type": "git",
     "url": "https://github.com/thomasfredericks/Bounce2.git"
   },
-  "version": "2.1",
+  "version": "2.1.0",
   "exclude": [
     "*.png",
     "*.zip"
